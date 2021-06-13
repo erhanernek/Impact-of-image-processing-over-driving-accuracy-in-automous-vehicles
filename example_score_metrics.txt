@@ -1,0 +1,3 @@
+Collision:  0
+Lane invasion:  10
+Time:  15.488783597946167
